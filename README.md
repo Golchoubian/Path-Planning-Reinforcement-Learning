@@ -1,4 +1,4 @@
-# Reinforcement-Learning
+# Path_Planning_Reinforcement_Learning
 
 This implementation is part of a course project for the “Introduction to Artificial Intelligence” course, fall 2020.
 
