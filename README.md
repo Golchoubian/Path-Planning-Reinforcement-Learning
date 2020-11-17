@@ -43,6 +43,9 @@ Ref[1]: Wang, Xiaoqi, Lina Jin, and Haiping Wei. "The Shortest Path Planning Bas
 
 All the above outputs are generated for both environment 1 and environment 2
 
+<img src="env1.PNG" width="300">
+<img src="env2.PNG" width="300">
+
 An example output for comparison between Q_learning and SARSA algorithm on environment 1 is given below:
 
 The optimal path is:
@@ -83,6 +86,7 @@ Left
 The length of the optimal path is:
 16
 
-<img src="env1.PNG" width="300">
+
+
 <img src="number-of-steps-1000.png" width="300">
-<img src="number-of-steps-1000.png" width="300">
+<img src="Iteration-steps-1000.png" width="300">
