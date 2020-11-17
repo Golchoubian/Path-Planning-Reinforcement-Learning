@@ -79,6 +79,7 @@ Down
 [6 7]
 Left
 [6 6]
+
 The length of the optimal path is:
 16
 
