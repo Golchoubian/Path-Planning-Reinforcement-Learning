@@ -84,4 +84,5 @@ The length of the optimal path is:
 16
 
 <img src="env1.PNG" width="300">
-
+<img src="number-of-steps-1000.png" width="300">
+<img src="number-of-steps-1000.png" width="300">
