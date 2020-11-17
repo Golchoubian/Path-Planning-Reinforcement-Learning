@@ -10,3 +10,33 @@ Four different actions of up/down/left/right were considered at each cell.
 
 The main formulation for the Q-table update is:
 
+Q(s,a) ← Q(s,a)+ α [r+ γ max⁡ Q(s',a)- Q(s,a)]
+
+Q(s,a): The action value for a state-action pair
+
+s: current state
+
+a: action
+
+s': next state
+
+r: reward
+
+α: learning rate
+
+γ: discount factor
+
+The outputs of running the main.py script are as follows:
+
+•	The optimal path’s cell coordinates step by step with the corresponding action at each step
+
+•	The length of the optimal path which is the shortest path form the start cell to the goal cell
+
+•	Graphs comparing the performance of the Q-learning algorithm with the SARSA algorithm
+
+•	Graphs that show the effect of different learning rates on the performance of the algorithm 
+
+•	Graphs that show the effect of different discount factor on the performance of the algorithm 
+
+All the above outputs are generated for both environment 1 and environment 2
+
