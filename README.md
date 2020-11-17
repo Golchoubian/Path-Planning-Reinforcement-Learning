@@ -87,6 +87,8 @@ The length of the optimal path is:
 
 <img src="number-of-steps-1000.png" width="300">
 <img src="Iteration-steps-1000.png" width="300">
+
+An example of one output that compares the different learning rates in the Q-learnng algorithm is given below. 
 <img src="number-of-steps-2000.png" width="300">
 
 
