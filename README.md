@@ -32,9 +32,6 @@ The outputs of running the main.py script are as follows:
 
 •	The length of the optimal path which is the shortest path form the start cell to the goal cell
 
-
-Ref[1]: Wang, Xiaoqi, Lina Jin, and Haiping Wei. "The Shortest Path Planning Based on Reinforcement Learning." In Journal of Physics: Conference Series, vol. 1584, no. 1, p. 012006. IOP Publishing, 2020.
-
 •	Graphs comparing the performance of the Q-learning algorithm with the SARSA algorithm
 
 •	Graphs that show the effect of different learning rates on the performance of the algorithm 
@@ -91,3 +88,8 @@ The length of the optimal path is:
 <img src="number-of-steps-1000.png" width="300">
 <img src="Iteration-steps-1000.png" width="300">
 <img src="number-of-steps-2000.png" width="300">
+
+
+
+
+Ref[1]: Wang, Xiaoqi, Lina Jin, and Haiping Wei. "The Shortest Path Planning Based on Reinforcement Learning." In Journal of Physics: Conference Series, vol. 1584, no. 1, p. 012006. IOP Publishing, 2020.
