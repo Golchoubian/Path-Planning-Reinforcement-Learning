@@ -83,6 +83,5 @@ Left
 The length of the optimal path is:
 16
 
-
-![](env1.PNG)
+<img src="env1.PNG" width="300">
 
