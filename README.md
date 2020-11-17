@@ -84,3 +84,5 @@ The length of the optimal path is:
 16
 
 
+![](env1)
+
